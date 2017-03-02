@@ -22,5 +22,25 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cathe/.m2/repository/com/vaadin/vaadin-server/7.7.6/vaadin-server-7.7.6.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="vaadin-server-7.7.6.jar"/>
+			<attribute name="maven.groupId" value="com.vaadin"/>
+			<attribute name="maven.artifactId" value="vaadin-server"/>
+			<attribute name="maven.version" value="7.7.6"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/cathe/.m2/repository/com/vaadin/vaadin-compatibility-server/8.0.0.alpha2/vaadin-compatibility-server-8.0.0.alpha2.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="org.eclipse.jst.component.archivename" value="vaadin-compatibility-server-8.0.0.alpha2.jar"/>
+			<attribute name="maven.groupId" value="com.vaadin"/>
+			<attribute name="maven.artifactId" value="vaadin-compatibility-server"/>
+			<attribute name="maven.version" value="8.0.0.alpha2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
